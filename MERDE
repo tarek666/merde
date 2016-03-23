@@ -9,7 +9,15 @@
 </head>
 
 <body>
+  <div class="Top">
+  <a href="http://www.google.com">
+    <img  src="logo.png"/> <p>active.collab</p>
+  </a>
+</div>
 <h1>Powerful, yet simple project manageme</h1>
 <img src="Screenshot.png"/>
+
+
+
+
 </body>
-merde
